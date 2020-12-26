@@ -1,0 +1,17 @@
+# This is a testing file to make my own adlist for my pihole at home 
+# This file will be made with a combined collection of previous adlists and own experience (the start is based on my most blocked domains)
+# it's a collection of both trackers as ads
+#
+#
+#
+#trackers:
+self.events.data.microsoft.com	
+mobile.pipe.aria.microsoft.com	
+activity.windows.com	
+browser.pipe.aria.microsoft.com	
+settings-win.data.microsoft.com	
+sb.scorecardresearch.com	
+v10.events.data.microsoft.com	
+#ads:
+googleads.g.doubleclick.net	
+www.googletagmanager.com	
